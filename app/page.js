@@ -64,7 +64,7 @@ export default function Home() {
       <footer className="bg-gray-100 py-6 px-4">
         <div className="container mx-auto text-center text-sm text-gray-600">
           <p>
-            © {new Date().getFullYear()} Dirección de Innovación y Modernización Gubernamental - Ayuntamiento de
+            © {new Date().getFullYear()} Ciudad Administrativa - Ayuntamiento de
             Tizayuca
           </p>
         </div>
